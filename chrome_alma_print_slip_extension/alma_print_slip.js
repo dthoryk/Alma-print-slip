@@ -65,7 +65,7 @@ var button_name = "Print Slip";
 
 var title = "Loan Slip";
 
-var institution = "Your Institution";
+var institution = "SUNY Broome Library";
 
 var data = "Date "+today;
 
