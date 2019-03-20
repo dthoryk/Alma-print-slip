@@ -9,5 +9,5 @@
 9. You should now see a red Print Slip button in the upper right corner. 
 10. Click Print Slip and a print dialog box willl open.
 11. In the print dialog box click More Settings and make sure Header and Footer is not checked. If it is checked, the slip will print about 12 inches long.
-12. Also in the print dialog box choose you receipt pritner. This has been tested with the Epson TM20II.
+12. Also in the print dialog box choose your receipt pritner. This has been tested with the Epson TM20II.
 13. Click print in the dialog box.
