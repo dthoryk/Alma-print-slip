@@ -6,7 +6,7 @@ if (loan_table && !button_exists) {
 var user_name = document.getElementById("pageBeanfullPatronName").innerHTML;
 user_name = user_name.replace(/\'/g, "`");
 var user_id = document.getElementById("pageBeanuserIDisplay").value;
-var library = document.getElementById("locationText").innerHTML;
+var library = "YOUR LIBRARY NAME";
 var rowLength = loan_table.rows.length;
 var loan_list = "";
 
